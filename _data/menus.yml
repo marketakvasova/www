@@ -1,21 +1,21 @@
 main:
-  - name: "Services"
+  - name: "Služby"
     url: "/services/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
-    weight: 3
-  - name: "About"
-    url: "/about/"
-    weight: 4
-  - name: "Contact"
+  # - name: "Team"
+  #   url: "/team/"
+  #   weight: 3
+  # - name: "O nás"
+  #   url: "/about/"
+  #   weight: 4
+  - name: "Kontakt"
     url: "/contact/"
     weight: 5
 
 footer:
-  - name: "Home"
+  - name: "Domů"
     url: "/"
     weight: 1
-  - name: "Contact"
+  - name: "Kontakt"
     url: "/contact/"
     weight: 2

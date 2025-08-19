@@ -1,12 +1,12 @@
 ---
-title: Services
+title: Služby
 layout: services
 description: Services
-intro_image: "images/illustrations/reading.svg"
+intro_image: "images/workers2.webp"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Nabízené služby
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Nabízíme širokou škálu stavebních a zednických služeb. Naše zkušenosti a profesionalita zajišťují kvalitní výsledky pro každý projekt. Na požádání předložíme reference o spokojenosti a kvalitě provedení podobných zakázek.

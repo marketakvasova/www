@@ -1,16 +1,20 @@
 ---
-title: Contact
+title: Kontaktujte nás
 layout: contact
-description: Contact
+description: Kontaktujte nás pro vaše stavební a zednické projekty
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Jsme připraveni pomoci vám s vašimi stavebními a zednickými projekty. Neváhejte nás kontaktovat pro konzultaci, cenovou nabídku nebo jakékoliv dotazy.
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+## Naše služby
+
+- Zednické práce (cihly, porotherm, kámen)
+- Omítky a štuky (včetně benátských štuků)
+- Betonáže (s armaturou i bez)
+- Hydroizolace a sanační práce
+- Obklady a dlažby
+- Instalační rozvody
+- Výkopy a zemní práce
+- Dokončovací práce
+
+**Žádná zakázka pro nás není malá a na ty velké zajistíme dostatek spolupracovníků.**

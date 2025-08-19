@@ -1,6 +1,8 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'ReStav Group'
+description: "ReStav Group (restavgroup) - Kvalitní stavební a zednické práce v celém Pardubickém kraji. Nabízíme omítky, betonáže, hydroizolace, obklady, dlažby, terénní úpravy a další služby. Spolehlivost a zkušenosti."
+url: "https://restavgroup.cz"
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -35,8 +37,13 @@ defaults:
 sass:
   style: compressed # possible values: nested expanded compact compressed
 
+remote_theme: zerostaticthemes/jekyll-serif-theme
+
 plugins:
   - jekyll-environment-variables
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  # - jekyll-sitemap # dela problem
 
 exclude:
   - Gemfile
@@ -49,3 +56,4 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+  - sitemap.xml
