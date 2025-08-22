@@ -1,6 +1,6 @@
 ---
 title: "Klasické zednické práce"
-date: 2018-11-18T12:33:46+10:00
+date: 2025-08-18T12:33:46+10:00
 weight: 1
 ---
 
