@@ -5,4 +5,6 @@ weight: 6
 ---
 
 Venkovní i vnitřní, z umělých i přírodních materiálů.
-![Accounting Services](/images/tile.webp)
+
+## • Interiérová dlažba do chodby
+{% lightbox /images/obrazky/06-vevnitr-dlazba.webp --data=galerie %}

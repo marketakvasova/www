@@ -6,4 +6,6 @@ weight: 7
 
 Odkopavání zeminy, výkopy, ploty, brány, pergoly, zámková dlažba - i renovace, hutnění...
 
-![Accounting Services](/images/vykopy.webp)
+## • Venkovní štěrková cesta
+{% lightbox /images/obrazky/07-venku-sterkova-cesta2.jpeg --data=galerie %}
+
